@@ -10,6 +10,7 @@ body {
 button {
     font-size: 30px;
     border-radius: 10px;
+    cursor: pointer;
     background-color:rgb(88, 136, 224);
     color: black;
     transition-duration: 0.2s;
