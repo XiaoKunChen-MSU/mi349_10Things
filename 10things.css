@@ -1,0 +1,22 @@
+body {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgb(88, 136, 224);
+    color: white;
+    margin-top: 15%;
+}
+
+button {
+    font-size: 30px;
+    border-radius: 10px;
+    background-color:rgb(88, 136, 224);
+    color: black;
+    transition-duration: 0.2s;
+    
+}
+
+button:hover {
+    background-color: rgb(88, 136, 224);
+    color:white;
+}
